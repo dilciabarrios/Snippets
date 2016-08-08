@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.navbar{
+	margin-bottom: 0;
+}
+
+/*--JUMBOTRON--*/
+.jumbotron{
+	
+	background: #508CC9;
+
+    color: rgba(0, 130, 211, 0.4);
+	color:   #fff;
+}
+.contacto a{
+	font-size: 15px;
+}
+/*--LOGO--*/
+.img-header{
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	border: 5px solid #fff;	
+}
+/*--CAROUSEL--*/
+.carousel-inner h4{
+	text-align: center;
+}
+/*--SECCIONES--*/
+section{
+	border-bottom: 1px solid #999;
+}
+/*media Querie para dispositvos moviles*/
+@media screen and (max-width: 768px){
+	
+}
